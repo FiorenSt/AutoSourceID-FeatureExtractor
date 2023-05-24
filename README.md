@@ -9,10 +9,10 @@
 
 
 <p float="left">
-  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_page-0001.jpg" width="25%" />
-  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_2_page-0001.jpg" width="25%" /> 
-  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_4_page-0001.jpg" width="25%" />
-  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_3_page-0001.jpg" width="25%" /> 
+  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_page-0001.jpg" width="23%" />
+  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_2_page-0001.jpg" width="23%" /> 
+  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_4_page-0001.jpg" width="23%" />
+  <img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_3_page-0001.jpg" width="23%" /> 
 
 </p>
 
