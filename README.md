@@ -4,8 +4,10 @@
 <!--
 [![DOI](https://zenodo.org/badge/440851447.svg)](https://zenodo.org/badge/latestdoi/440851447) 
 <a href="https://ascl.net/2203.014"><img src="https://img.shields.io/badge/ascl-2203.014-blue.svg?colorB=262255" alt="ascl:2203.014" /></a>
-<img src="https://github.com/FiorenSt/AutoSourceID-Light/blob/main/Plots/OpticalImagePatch.png " width=50% height=50%><img src="https://github.com/FiorenSt/AutoSourceID-Light/blob/main/Plots/LoGOnOptical.png " width=50% height=50%> 
 -->
+
+<img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_1_page-0001.jpg" width=50% height=50%><img src="https://github.com/FiorenSt/AutoSourceID-FeatureExtractor/blob/main/Plots/Crowded_image_2_page-0001.jpg" width=50% height=50%> 
+
 
 <!--
 ![GitHub stars](https://img.shields.io/github/stars/FiorenSt/AutoSourceID-Light?style=social)
