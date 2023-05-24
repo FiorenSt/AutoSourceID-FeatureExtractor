@@ -1,5 +1,5 @@
 
-<img src=[https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjoxMDAsInciOjEwMDAsImZzIjoxMDAsImZnYyI6IiMwRjlCRkEiLCJiZ2MiOiIjMEMwMDAwIiwidCI6MX0/QXV0b1NvdXJjZUlELUxpZ2h0/kg-second-chances-sketch.png](https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjozNywidyI6MTAwMCwiZnMiOjM3LCJmZ2MiOiIjM0JFQkVGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUZlYXR1cmVFeHRyYWN0b3I/kg-second-chances-sketch.png)>
+<img src=[https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjozNywidyI6MTAwMCwiZnMiOjM3LCJmZ2MiOiIjM0JFQkVGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUZlYXR1cmVFeHRyYWN0b3I/kg-second-chances-sketch.png]>
 
 <!--
 [![DOI](https://zenodo.org/badge/440851447.svg)](https://zenodo.org/badge/latestdoi/440851447) 
