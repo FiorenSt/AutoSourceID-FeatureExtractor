@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjozNywidyI6MTAwMCwiZnMiOjM3LCJmZ2MiOiIjM0JFQkVGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1N1cmNlSUQtRmVhdHVyZUV4dHJhY3Rvcg/kg-second-chances-sketch.png">
+    <img src="https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjozNywidyI6MTAwMCwiZnMiOjM3LCJmZ2MiOiIjM0JFQkVGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1N1cmNlSUQtRmVhdHVyZUV4dHJhY3Rvcg/kg-second-chances-sketch.png" width="45%">
 </p>
 
 <!-- Uncomment the following lines when you have a DOI or ASCL code
