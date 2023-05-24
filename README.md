@@ -1,5 +1,5 @@
 
-<img src=[https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjozNywidyI6MTAwMCwiZnMiOjM3LCJmZ2MiOiIjM0JFQkVGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUZlYXR1cmVFeHRyYWN0b3I/kg-second-chances-sketch.png]>
+<img src="https://see.fontimg.com/api/renderfont4/KpAp/eyJyIjoiZnMiLCJoIjozNywidyI6MTAwMCwiZnMiOjM3LCJmZ2MiOiIjM0JFQkVGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QXV0b1NvdXJjZUlELUZlYXR1cmVFeHRyYWN0b3I/kg-second-chances-sketch.png">
 
 <!--
 [![DOI](https://zenodo.org/badge/440851447.svg)](https://zenodo.org/badge/latestdoi/440851447) 
@@ -13,9 +13,3 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/FiorenSt/AutoSourceID-Light?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FiorenSt?style=social)
 -->
-
-
-
-# Description
-
-
