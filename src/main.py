@@ -8,14 +8,6 @@
 #                    ###         ###    #######       ###      ### ##                ###            ### ######
 #
 
-############# TEMPORARY #########################
-import os
-
-import numpy as np
-
-os.chdir('C:/Users/fiore/Desktop/UNI/Projects/Project8-FeatureExtraction/Flux Regression/ASID_FE/src/')
-############# TEMPORARY #########################
-
 
 from model_partI import train_model as train_model_part1
 from model_partII import train_model as train_model_part2  # Assuming this is the function for part2 training
