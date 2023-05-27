@@ -37,7 +37,3 @@ def load_config_partII():
     )
 
 
-
-def prepare_data(config):
-    # Implement your data preparation logic here
-    pass
